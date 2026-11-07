@@ -1,9 +1,10 @@
 {
   "id": "theme-kino-naruto",
   "name": "Kino TV Naruto Shippuden",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "apiVersion": 18,
   "entry": "plugin.js",
+  "icon": "icon.png",
   "description": "Tema de Naruto Shippuden para Kino TV: naranja shinobi, negros sellados y marcos de chakra en toda la app.",
   "hosts": [],
   "categories": ["themes"],
